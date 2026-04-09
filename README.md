@@ -27,27 +27,23 @@ streamlit run app.py
 ```
 ## Project Structure
 resume-shortlister/
-├── app.py
-├── requirements.txt
-├── README.md
-├── report/
-├── screenshots/
+- ├── app.py
+- ├── requirements.txt
+- ├── README.md
+- ├── report/
+- ├── screenshots/
 
 ## Output
 Candidate ranking
-
 Selected candidates (Greedy vs DP)
-
 Performance comparison graphs
 
 ## Applications
 Recruitment systems
-
 Resume filtering
-
 HR analytics
 
 ## Authors
-Bharat Diwan
-Daksh Khandelwal
-Himanshu Thosar
+- Bharat Diwan
+- Daksh Khandelwal
+- Himanshu Thosar
